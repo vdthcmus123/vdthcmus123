@@ -83,8 +83,6 @@ Beyond modeling, I am experienced in end-to-end development—from data collecti
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vdthcmus123&theme=github" width="100%" alt="profile details" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vdthcmus123&theme=github" height="160" alt="stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vdthcmus123&theme=github" height="160" alt="most commit language" />
 
