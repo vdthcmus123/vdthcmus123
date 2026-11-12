@@ -28,48 +28,33 @@ Beyond modeling, I am experienced in end-to-end development—from data collecti
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><b>Programming & Data</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python" alt="Python" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="36" title="SQL" alt="SQL" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" title="Pandas" alt="Pandas" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" title="NumPy" alt="NumPy" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="36" title="Plotly" alt="Plotly" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Machine Learning & AI</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" title="Scikit-learn" alt="Scikit-learn" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" title="PyTorch" alt="PyTorch" />&nbsp;
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="36" title="Hugging Face" alt="Hugging Face" />&nbsp;
-      <img src="https://img.shields.io/badge/XGBoost-1f2937?style=flat-square" height="24" alt="XGBoost" />
-      <img src="https://img.shields.io/badge/LightGBM-1f2937?style=flat-square" height="24" alt="LightGBM" />
-      <img src="https://img.shields.io/badge/SHAP-Explainable_AI-1f2937?style=flat-square&labelColor=374151" height="24" alt="SHAP" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Deployment</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" title="FastAPI" alt="FastAPI" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" title="Docker" alt="Docker" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" title="GitHub Actions" alt="GitHub Actions" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="36" title="Streamlit" alt="Streamlit" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" title="React" alt="React" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases & Tools</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" title="SQLite" alt="SQLite" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="36" title="Kafka" alt="Kafka" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="36" title="Google Colab" alt="Google Colab" />
-    </td>
-  </tr>
-</table>
+**Programming & Data**<br>
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Pandas](https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=E70488)
+![NumPy](https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Plotly](https://img.shields.io/badge/Plotly-161B22?style=flat-square&logo=plotly&logoColor=7A76FF)
+
+**Machine Learning & AI**<br>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-161B22?style=flat-square&logo=python&logoColor=1BA94C)
+![LightGBM](https://img.shields.io/badge/LightGBM-161B22?style=flat-square&logo=python&logoColor=1BA94C)
+![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-161B22?style=flat-square&labelColor=30363D)
+
+**Backend, Deployment & Automation**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases & Tools**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=74C0FC)
+![Kafka](https://img.shields.io/badge/Kafka-161B22?style=flat-square&logo=apachekafka&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-161B22?style=flat-square&logo=googlecolab&logoColor=F9AB00)
 
 ---
 
@@ -98,10 +83,12 @@ Beyond modeling, I am experienced in end-to-end development—from data collecti
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github" width="100%" alt="profile details" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github" height="160" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github" height="160" alt="most commit language" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" alt="streak" />
 
 </div>
 
