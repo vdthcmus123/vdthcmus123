@@ -1,4 +1,4 @@
-<!-- Thay YOUR_USERNAME, YOUR_LINKEDIN, your.email@example.com và tên dự án bằng thông tin của bạn -->
+<!-- Thay vdthcmus123, YOUR_LINKEDIN, your.email@example.com và tên dự án bằng thông tin của bạn -->
 
 <div align="center">
 
@@ -62,17 +62,17 @@ Beyond modeling, I am experienced in end-to-end development—from data collecti
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-one&theme=github_dark&hide_border=true" />
+<a href="https://github.com/vdthcmus123/project-one">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vdthcmus123&repo=project-one&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-two&theme=github_dark&hide_border=true" />
+<a href="https://github.com/vdthcmus123/project-two">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vdthcmus123&repo=project-two&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/project-three">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-three&theme=github_dark&hide_border=true" />
+<a href="https://github.com/vdthcmus123/project-three">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vdthcmus123&repo=project-three&theme=github_dark&hide_border=true" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/project-four">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-four&theme=github_dark&hide_border=true" />
+<a href="https://github.com/vdthcmus123/project-four">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vdthcmus123&repo=project-four&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
@@ -83,12 +83,12 @@ Beyond modeling, I am experienced in end-to-end development—from data collecti
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github" width="100%" alt="profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vdthcmus123&theme=github" width="100%" alt="profile details" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github" height="160" alt="stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github" height="160" alt="most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vdthcmus123&theme=github" height="160" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vdthcmus123&theme=github" height="160" alt="most commit language" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=vdthcmus123&theme=default" alt="streak" />
 
 </div>
 
